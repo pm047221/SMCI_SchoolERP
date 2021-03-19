@@ -1,3 +1,5 @@
+#SMCI_SchoolERP
+
 System Requirements:
 
 PHP 5.4 or higher and Mysql 5.1 or higher. We have tested on Windows and Linux.
